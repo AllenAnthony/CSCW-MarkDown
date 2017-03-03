@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/lib/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/docx4j-3.2.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/docx4j-ImportXHTML-3.2.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/jsoup-1.10.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/markdown4j-2.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/pegdown-1.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/lib/pegdown-1.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="src/lib/pegdown-1.6.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="src/lib/slf4j-simple-1.7.21.jar"/>
+	<classpathentry kind="lib" path="src/lib/xhtmlrenderer-3.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/xmlgraphics-commons-2.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/lib/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

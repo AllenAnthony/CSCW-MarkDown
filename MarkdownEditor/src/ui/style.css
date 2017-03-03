@@ -1,0 +1,13 @@
+.root {
+    -fx-font-family: "Monaco";
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#61a2b1, steelblue);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+#title {
+	-fx-font-size: 30;
+}
